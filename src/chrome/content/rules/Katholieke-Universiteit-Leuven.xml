@@ -174,10 +174,10 @@
 
 		<test url="http://alumni.kuleuven.be//" />
 		<test url="http://alumni.kuleuven.be/?foo" />
-
+<!--
 	<rule from="^http://kuleuven\.ezproxy\.kuleuven\.be/"
 		to="https://www.kuleuven.ezproxy.kuleuven.be/" />
-
+-->
 	<rule from="^http://services\.libis\.kuleuven\.be/"
 		to="https://services.libis.be/" />
 
